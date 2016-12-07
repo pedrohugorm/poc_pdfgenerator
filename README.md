@@ -5,3 +5,5 @@ The coordinator receives info and sends to each node availble in a round-robin-p
 Each node generates a PDF file and saves it on DISK.
 
 This POC was created to test the performance and resource usage for a heavy demand of PDF files.
+
+This POC needs Lighthouse or something similar to work => https://github.com/petabridge/lighthouse
